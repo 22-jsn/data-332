@@ -17,7 +17,7 @@ This project analyzes patient visit data by merging billing, patient, and visit 
 ![Reason by Zip](reasonbyzip.pdf)
 
 ### Total Invoice Amount by Reason (Paid vs. Unpaid)
-![Invoice Amount by Reason](invoiceamount by reason.pdf)
+![Invoice Amount by Reason](https://github.com/22-jsn/data-332/blob/0e2122cba246635796853724780c7a638c4b8c37/invoiceamount%20by%20reason.pdf)
 
 ### Top 8 Most Common Visit Reasons
 ![Top 8 Common Reasons](8commonreasons.pdf)
