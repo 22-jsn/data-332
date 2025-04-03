@@ -11,7 +11,7 @@ This project analyzes patient visit data by merging billing, patient, and visit 
 ![Reason for Visit by Month](reasonforvisit.pdf)
 
 ### Walk-in vs Appointment: Visit Reasons
-![Walk-in vs Appointment](walkin or appt.pdf)
+![Walk-in vs Appointment](https://github.com/22-jsn/data-332/blob/47c123e103394d67b24107c82e1f4a3586121e4c/walkin%20or%20appt.pdf)
 
 ###  Reason for Visit by Zip Code
 ![Reason by Zip](reasonbyzip.pdf)
